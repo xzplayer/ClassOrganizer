@@ -6,7 +6,6 @@ import 'quoteWidget.dart';
 List <Quote> info = [
 
   Quote(text: "This ui is really cool",author: "Andy Oviedo"),
-  Quote(text: "I am really cool",author: "Andy Oviedo"),
   Quote(text: "This app will be amazing",author: "Andy Oviedo"),
 ];
 
