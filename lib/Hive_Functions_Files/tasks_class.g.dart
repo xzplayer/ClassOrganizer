@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'TasksClass.dart';
+part of 'tasks_class.dart';
 
 // **************************************************************************
 // TypeAdapterGenerator

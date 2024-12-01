@@ -5,8 +5,7 @@ import 'Pages/_files.dart';
 import 'Pages/_notes.dart';
 import 'Pages/_settings.dart';
 import 'Pages/_taskpage.dart';
-import 'pages/TasksClass.dart';  
-
+import 'Hive_Functions_Files/tasks_class.dart';  
 
 void main() async {
  

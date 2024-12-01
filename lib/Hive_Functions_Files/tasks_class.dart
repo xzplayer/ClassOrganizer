@@ -1,7 +1,7 @@
-
 import 'package:hive_flutter/hive_flutter.dart';
 
-part 'TasksClass.g.dart';
+part 'tasks_class.g.dart';
+
 
 //Class that represents tasks, saved in Hive
 @HiveType(typeId: 0) // Unique typeId for each model
